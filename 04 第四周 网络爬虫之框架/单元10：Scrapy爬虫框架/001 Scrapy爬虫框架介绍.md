@@ -70,7 +70,7 @@ Scrapy不是一个简单的函数功能库，而是一个爬虫框架
 
 ## 示意图
 
-![](E:\Notes\WebSpider\04 第四周 网络爬虫之框架\单元10：Scrapy爬虫框架\Scrapy框架.png)
+![](Scrapy框架.PNG)
 
 ****
 

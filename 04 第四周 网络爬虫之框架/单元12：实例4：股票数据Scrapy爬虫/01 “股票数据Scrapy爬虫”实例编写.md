@@ -348,3 +348,26 @@ ITEM_PIPELINES = {
 ```
 
 
+
+
+
+## 运行爬虫
+
+在`cmd`命令中，首先切换到对应的工程目录下。
+
+然后运行`scrapy crawl stocks`，这里`stocks`是在`stocks.py`文件中定义的`name`变量的名字。
+
+```cmd
+>>> e:
+>>> cd e:/......
+>>> scrapy crawl stocks
+```
+
+等待运行
+
+
+
+## 查看结果
+
+结果保存在工程文件夹下
+
